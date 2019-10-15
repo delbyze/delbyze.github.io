@@ -82,10 +82,6 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	body {
-		padding-top: 3.5em;
-	}
-
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
@@ -2241,11 +2237,6 @@ input, select, textarea {
 	@media screen and (max-width: 736px) {
 
 		/* Basic */
-
-			body {
-				padding-top: 44px;
-			}
-
 			body, input, textarea, select {
 				line-height: 1.75em;
 				font-size: 10pt;
